@@ -1,0 +1,1 @@
+Controllers são responsáveis por gerenciar todas as request e responses.
